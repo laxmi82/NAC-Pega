@@ -1,0 +1,44 @@
+20874.98
+
+466.87
+3,507.99
+
+
+\\GA016VAC06\Scripts\Enterprise-Android-CI\MDXfiles
+
+http://tfs.suntrust.com/tfs/SunTrust/SunTrust/Digital%20Client%20Conversation%20Guide/_apps/hub/ms.vss-releaseManagement-web.hub-explorer?definitionId=120&_a=environments-editor&releaseId=2422
+
+http://tfs.suntrust.com/tfs/SunTrust/SunTrust/Digital%20Client%20Conversation%20Guide/_release?definitionId=121&_a=releases
+
+http://tfs.suntrust.com/tfs/SunTrust/Enterprise/_release?definitionId=540&_a=environments-editor
+
+ILCONSW0533
+
+1013448
+
+Based on KC’s direction , requested for access to publisher and enrolledusers group  but  got this response  “Please resubmit the request. For proper approval, the access will need to be submitted via the “XenMobile” application, instead of Active Directory Group Access” . Can please suggest how I can submit xenmobile group access request.   
+
+RL.APP.XenMobile.TestUsers
+RL.APP.XenMobile.SoftLaunchUsers 
+
+rl.app.xenmobile.publishers – Publish app
+rl.app.xenmobile.enrollusers – Enroll users
+
+
+http://tfs-qa.suntrust.com/tfs/SunTrust/Business%20Accelerator%20Teams/_git/NAC_Pega_Server
+
+UGKK127
+
+\\GA016VAC06\Scripts\Enterprise-Android-CI\s.zip   
+
+http://10.7.154.61:8080
+
+http://10.7.154.61:7070/login?from=%2F
+
+Root
+suntrust1
+
+8446668111
+592845941
+
+https://qaxenmobile.suntrust.com:4443/zdm/login_xdm_uc.jsp     
