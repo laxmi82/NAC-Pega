@@ -1,0 +1,68 @@
+http://tfs-qa.suntrust.com/tfs/SunTrust/CPWM/_git/CLA
+
+release_17.5
+
+
+http://tfs-qa.suntrust.com/tfs/suntrust/CPWM/Channel%20Link/_backlogs/index?level=Stories&showParents=false&_a=backlog
+
+
+/CLA/SYSAPPS/TFS_Scripts
+
+$(RMMachines)
+$(UserName)
+$(PassWord)
+
+f:\Scripts\Stop_Services_RM.PS1
+
+C:\MyData\Script\IIS_Start_Stop.ps1
+
+Status
+
+\\GA016F007\argoclp\ARGO_Updates\CBRM\DEV3\Progs\
+
+f:\ads\server\
+
+$(APMachine)
+
+$(APTarget)
+$(SMMachine)
+
+$(RMTarget)
+$(TLSMachine)
+
+5803187
+
+Host names for Dev3 and ADV1
+
+DEV3:
+NC006VDEVW065 RM 1
+NC006VDEVA085 AP 1
+NC006VQAA0B4 TLS 1
+NC006VDEVW066 SM 1
+Nc006F006 FLS 1
+
+ADV1:
+NC006VDEVW071 RM 1
+NC006VDEVA098 AP 1
+NC006VDEVW072 SM 1
+Nc006F006 FLS 1
+
+F:\Ads - RM , AP  and SM
+F:\inetpub\wwwroot\sal - RM and SM
+
+rqc0zsro
+rqc0zsro
+
+285 Peachtree Center Avenue Atlanta, GA
+
+4867ashford dunwoodyrd #12104
+
+https://www.microsoft.com/en-in/download/details.aspx?id=40855&40ddd5bd-f9e7-49a6-3526-f86656931a02=True
+
+https://www.microsoft.com/en-us/download/details.aspx?id=50395#top-slide1-image
+
+/mir  /xd $(System.DefaultWorkingDirectory)/CLP BUILD/CLA/Code/Web
+
+NC006VDEVA085.corp.suntrust.com
+NC006VDEVW065.corp.suntrust.com
+NC006VDEVW066.corp.suntrust.com

@@ -1,0 +1,61 @@
+https://devops.cognizant.com
+https://www.lynda.com/IT-training-tutorials/2057-0.html
+https://www.tutorialspoint.com/ant/
+https://www.edureka.co/blog/git-tutorial/?utm_source=blog&utm_medium=left-menu&utm_campaign=what-is-chef 
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/10/04/azure-function-ci-cd-devops-pipeline/?utm_source=vs_developer_news&utm_medium=referral
+https://www.edureka.co/blog/git-tutorial/?utm_source=blog&utm_medium=left-menu&utm_campaign=what-is-chef
+https://mycw43.eclinicalweb.com/portal4813/jsp/100mp/login_otp.jsp
+https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2017-Launch/190
+
+
+9177688733
+
+A2140 - OMNI ART Launch support 
+
+download starter kit
+
+.chef  folder ki move
+
+chef generate cookbook  <cookbookname>
+
+Patameter checking
+NTP installation
+Profile checking
+pyothen install
+
+data-lackProject
+nife cookbook upload <cookbookname>
+
+default.rb
+
+https://docs.chef.io/resource_package.html
+
+stand by server
+
+publish and private
+
+cheft habitate
+
+https://docs.chef.io/resource_package.html <https://docs.chef.io/resource_package.html> 
+
+
+Chef server 
+
+Google Could :-
+
+https://cloud.google.com/deployment-manager/docs/step-by-step-guide/create-a-template
+
+gcloud deployment-manager deployments create deployment-with-templates --config two-vms.yaml
+
+gcloud deployment-manager deployments describe deployment-with-templates
+
+gcloud deployment-manager manifests describe manifest-TIMESTAMP --deployment deployment-with-templates
+
+gcloud deployment-manager deployments delete deployment-with-templates
+
+CYARA
+
+https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/build/variables?tabs=batch#set-in-script
+
+
